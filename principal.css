@@ -1,0 +1,12 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+header, .main{
+    background-image: url('../img/fondo.png');
+    height:200px;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-attachment: cover;
+}
